@@ -1,64 +1,73 @@
 export const gallery = [
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-1.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-2.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-3.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-4.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-5.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-6.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-7.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-8.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
   {
-    title: '', 
+    title: 'Name', 
     image: './images/food-9.jpg',
-    description: '',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    price: '$',
     url: '',
     alt: ''
   },
