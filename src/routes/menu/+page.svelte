@@ -1,8 +1,7 @@
 <script>
-	import Gallery from '../../lib/components/Gallery.svelte';
+	import Menu from '../../lib/components/Menu.svelte';
 </script>
 
 <h1 class="text-4xl text-center">Menu</h1>
 
-
-<Gallery />
+<Menu />
