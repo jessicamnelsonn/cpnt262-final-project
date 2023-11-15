@@ -9,7 +9,7 @@
 
 <header>
 	<nav>
-		<ul>
+		<ul class="flex justify-end gap-4 flex-end p-4">
 			{#each navItems as { name, href }}
 				<li><a {href}>{name}</a></li>
 			{/each}
