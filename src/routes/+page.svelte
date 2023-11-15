@@ -1,1 +1,1 @@
-<h1 class="text-4xl">Cucina Bella</h1>
+<h1 class="text-4xl text-center">Cucina Bella</h1>

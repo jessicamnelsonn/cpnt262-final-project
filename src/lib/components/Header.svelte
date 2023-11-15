@@ -7,9 +7,10 @@
 	];
 </script>
 
-<header>
+<header class="flex justify-between p-4">
+  <div><a href='/'>CB</a></div>
 	<nav>
-		<ul class="flex justify-end gap-4 flex-end p-4">
+		<ul class="flex justify-around gap-4 gap-4">
 			{#each navItems as { name, href }}
 				<li><a {href}>{name}</a></li>
 			{/each}
