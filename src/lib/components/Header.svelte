@@ -3,7 +3,8 @@
 		{ name: '', href: '/' },
 		{ name: 'About', href: '/about' },
 		{ name: 'Menu', href: '/menu' },
-		{ name: 'Contact', href: '/contact' }
+		{ name: 'Contact', href: '/contact' },
+    { name: 'Reservations', href: '/reservations' }
 	];
 </script>
 
