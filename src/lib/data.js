@@ -49,7 +49,7 @@ export let italianMenu = [
   },
   {
     title: 'Amaretto Infused Panna Cotta', 
-    image: './images/food-7.jpg',
+    image: './images/food-7.png',
     description: 'Elevate your dessert experience with our Amaretto Infused Panna Cotta, a velvety masterpiece infused with the rich essence of amaretto. Silky-smooth and delicately set, this Italian classic is topped with a luscious berry compote, creating a symphony of indulgence that captures the essence of sweet sophistication.',
     price: '$',
     url: '',
@@ -65,7 +65,7 @@ export let italianMenu = [
   },
   {
     title: 'Tricolore Rustica Pizza', 
-    image: './images/food-9.jpg',
+    image: './images/food-9.png',
     description: 'Immerse yourself in a culinary masterpiece with our Tricolore Rustica Pizza, where the savory trio of tomato, fresh basil, and mozzarella harmonize atop a rustic crust. Enhanced by Kalamata olives and artichoke hearts, its a symphony of Mediterranean flavors that transports you to the heart of Italy.',
     price: '$',
     url: '',
