@@ -1,4 +1,4 @@
-export const menu = [
+export let galleryInfo = [
   {
     title: 'Name', 
     image: './images/food-1.jpg',

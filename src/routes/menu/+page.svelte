@@ -1,7 +1,14 @@
 <script>
-	import Menu from '../../lib/components/Menu.svelte';
+  import {galleryInfo} from '../../lib/menu.js'
+  import Card from "../../lib/components/Card.svelte";
+	const pageTitle = 'Gallery';
 </script>
-
-<h1 class="text-4xl text-center">Menu</h1>
-
-<Menu />
+<svelte:head>
+		<title>{pageTitle}</title>
+</svelte:head>
+<main>
+	<h1 class="text-4xl text-center">Our Menu</h1>
+  {#each galleryInfo as card}
+    <Card {...card} />
+  {/each}
+</main>
