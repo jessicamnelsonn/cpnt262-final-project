@@ -24,9 +24,9 @@ export const menu = [
     alt: ''
   },
   {
-    title: 'Name', 
+    title: 'Sicilian Citrus Infused Oysters', 
     image: './images/food-4.jpg',
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
+    description: 'Savor the sea with our Sicilian Citrus Infused Oysters—a tantalizing blend of fresh oysters kissed by Sicilys sun-soaked citrus notes. Enhanced with a touch of garlic and herbs, each bite is a journey to the Sicilian coastline, offering a zesty and briny symphony.',
     price: '$',
     url: '',
     alt: ''

@@ -17,6 +17,7 @@ export const gallery = [
   {
     title: 'Name', 
     image: './images/food-4.jpg',
+    url: './lib/menu.js',
     alt: ''
   },
   {
