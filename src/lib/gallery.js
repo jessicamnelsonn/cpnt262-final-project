@@ -1,48 +1,56 @@
-export const gallery = [
+export let gallery = [
   {
     title: 'Name', 
     image: './images/food-1.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
     title: 'Name', 
     image: './images/food-2.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
     title: 'Name', 
     image: './images/food-3.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Sicilian Citrus Infused Oysters', 
     image: './images/food-4.jpg',
-    url: './lib/menu.js',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Tuscan Artichoke Symphony', 
     image: './images/food-5.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Riviera Medley', 
     image: './images/food-6.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Amaretto Infused Panna Cotta', 
     image: './images/food-7.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Italian Meringue Perfection', 
     image: './images/food-8.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
   {
-    title: 'Name', 
+    title: 'Tricolore Rustica Pizza', 
     image: './images/food-9.jpg',
-    alt: ''
+    alt: '',
+    url: ''
   },
 ];
