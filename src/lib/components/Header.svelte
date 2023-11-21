@@ -8,7 +8,7 @@
 </script>
 
 <header class="flex justify-between p-4">
-  <div><a href='/'>CB</a></div>
+  <div><a class="font-playfairDisplay text-4xl" href='/'>CB</a></div>
 	<nav>
 		<ul class="flex justify-around gap-4 gap-4">
 			{#each navItems as { name, href }}
