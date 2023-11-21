@@ -1,6 +1,7 @@
-<header class="max-w-full grid grid-cols-2 grid-rows-1 bg-cover">
-  <div class="typewriter text-slate-50 col-start-1 row-start-1 z-10 text-7xl justify-self-end self-center font-extrabold">
-<h1>Cucina Bella</h1>
+<div class="relative">
+  <img class="brightness-75" src="images/hero-image.jpg" alt="">
+  <div class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white">
+    <h1 class="text-7xl font-playfairDisplay text-white">Cucina Bella</h1>
+  </div>
 </div>
-<img class="col-span-full col-start-1 row-start-1 brightness-75" src="images/hero-image.jpg" alt="">
-</header>
+
