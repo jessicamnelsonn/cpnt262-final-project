@@ -6,8 +6,8 @@
 <svelte:head>
 		<title>{pageTitle}</title>
 </svelte:head>
-<main>
-	<h1 class="text-4xl text-center">Our Menu</h1>
+
+<main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 bg-black">
   {#each italianMenu as card}
     <Card {...card} />
   {/each}

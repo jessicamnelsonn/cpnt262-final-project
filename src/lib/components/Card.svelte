@@ -7,7 +7,7 @@
   export let alt;
   </script>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 bg-black text-white">
+  <div class="text-white">
       <section>
         <a href={url} class="block">
           <article class="p-4 rounded-lg shadow-md">
