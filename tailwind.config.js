@@ -5,11 +5,9 @@ export default {
     extend: {
       fontFamily: {
         playfairDisplay: ['Playfair Display', 'serif'],
-    },
-      fontFamily: {
         lato: ['Lato', 'sans-serif'],
+      },
     },
   },
-},
-  plugins: []
+  plugins: [],
 };
