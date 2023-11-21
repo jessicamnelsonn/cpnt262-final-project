@@ -1,7 +1,7 @@
 <script>
   import {galleryInfo} from '../../lib/menu.js'
   import Card from "../../lib/components/Card.svelte";
-	const pageTitle = 'Gallery';
+	const pageTitle = 'The Menu';
 </script>
 <svelte:head>
 		<title>{pageTitle}</title>
