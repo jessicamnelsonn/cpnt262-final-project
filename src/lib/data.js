@@ -5,7 +5,7 @@ export let italianMenu = [
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of a bolognese pasta on a plate'
   },
   {
     title: 'Name', 
@@ -13,7 +13,7 @@ export let italianMenu = [
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of ravioli in a creamy parmesan sauce on a plate'
   },
   {
     title: 'Name', 
@@ -21,7 +21,7 @@ export let italianMenu = [
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, earum.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of a penne pasta in a creamy garlic sauce on a plate'
   },
   {
     title: 'Sicilian Citrus Infused Oysters', 
@@ -29,7 +29,7 @@ export let italianMenu = [
     description: 'Savor the sea with our Sicilian Citrus Infused Oysters—a tantalizing blend of fresh oysters kissed by Sicilys sun-soaked citrus notes. Enhanced with a touch of garlic and herbs, each bite is a journey to the Sicilian coastline, offering a zesty and briny symphony.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of an oyster dish with pieces of spinach on a plate'
   },
   {
     title: 'Tuscan Artichoke Symphony', 
@@ -37,7 +37,7 @@ export let italianMenu = [
     description: 'Embark on a culinary journey with our Tuscan Artichoke Symphony, featuring tender artichoke hearts harmonizing with sun-dried tomatoes, garlic, and a medley of Italian herbs. This flavorful dish captures the essence of Tuscany, creating a symphony of taste that celebrates the art of Italian gastronomy.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of an artichoke dish on a plate'
   },
   {
     title: 'Riviera Medley', 
@@ -45,7 +45,7 @@ export let italianMenu = [
     description: 'Savor Italy with our Insalata Italiana—a vibrant mix of Romaine lettuce, cherry tomatoes, cucumber, mozzarella, Kalamata olives, and Parmesan, dressed in basil-infused olive oil. A burst of Mediterranean freshness awaits',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of a spring salad on a plate'
   },
   {
     title: 'Amaretto Infused Panna Cotta', 
@@ -53,7 +53,7 @@ export let italianMenu = [
     description: 'Elevate your dessert experience with our Amaretto Infused Panna Cotta, a velvety masterpiece infused with the rich essence of amaretto. Silky-smooth and delicately set, this Italian classic is topped with a luscious berry compote, creating a symphony of indulgence that captures the essence of sweet sophistication.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of a panna cotta on a plate with berries drizzled on top'
   },
   {
     title: 'Italian Meringue Perfection', 
@@ -61,7 +61,7 @@ export let italianMenu = [
     description: 'Indulge in the allure of our Italian Meringue Perfection—a delicate fusion of whipped egg whites and sugar, torched to golden perfection. This sweet masterpiece, reminiscent of the Italian culinary finesse, offers a cloud-like texture with a hint of vanilla, ensuring a sublime finale to your dining experience.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of a meringue on a plate with a strawberry'
   },
   {
     title: 'Tricolore Rustica Pizza', 
@@ -69,6 +69,6 @@ export let italianMenu = [
     description: 'Immerse yourself in a culinary masterpiece with our Tricolore Rustica Pizza, where the savory trio of tomato, fresh basil, and mozzarella harmonize atop a rustic crust. Enhanced by Kalamata olives and artichoke hearts, its a symphony of Mediterranean flavors that transports you to the heart of Italy.',
     price: '$',
     url: '',
-    alt: ''
+    alt: 'top view of pizza on a plate'
   },
 ];
