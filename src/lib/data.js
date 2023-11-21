@@ -1,4 +1,4 @@
-export let galleryInfo = [
+export let italianMenu = [
   {
     title: 'Name', 
     image: './images/food-1.jpg',
