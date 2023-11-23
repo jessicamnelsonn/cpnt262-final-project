@@ -3,9 +3,12 @@
   <section class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white">
     <h1 class="font-playfairDisplay text-8xl text-white">Cucina Bella</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, voluptates fugit doloribus tenetur ex quod. Velit aliquam maiores alias nihil.</p>
-    <button class="font-lato m-4 px-4 py-2 bg-red-700 text-white hover:bg-red-800 active:bg-red-900">
-      Reservations
-    </button>
+    <a href="/reservations">
+      <button class="font-lato m-4 px-4 py-2 bg-red-700 text-white hover:bg-red-800 active:bg-red-900">
+        Reservations
+      </button>
+    </a>
+    
     
   </section>
 </div>

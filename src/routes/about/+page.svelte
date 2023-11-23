@@ -1,5 +1,5 @@
 <script>
-	const pageTitle = 'Contact Page';
+	const pageTitle = 'About Page';
 </script>
 
 <svelte:head>
