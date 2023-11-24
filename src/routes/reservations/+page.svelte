@@ -35,7 +35,7 @@
 					<option value="private_party">Private Party</option>
 			</select>
 
-			<input type="submit" value="Submit Reservation" class=" w-full p-2 mb-4 text-white hover:bg-red-900 bg-red-800 p-2 cursor-pointer">
+			<input type="submit" value="Submit Reservation" class=" font-lato w-full p-2 mb-4 text-white hover:bg-red-900 bg-red-800 p-2 cursor-pointer">
 
     </form>
 
