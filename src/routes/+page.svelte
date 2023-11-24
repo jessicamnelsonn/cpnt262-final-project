@@ -1,3 +1,10 @@
+<script>
+import dayjs from 'dayjs'
+
+let now = dayjs();
+console.log(now.format("MMM D, YYYY"));
+</script>
+
 <div class="relative">
   <img class="brightness-75" src="images/hero-image.jpg" alt="">
   <section class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white">
@@ -8,6 +15,8 @@
         Reservations
       </button>
     </a>
+
+    <h2 class="text-xl">Today's date: {now.format("MMM D, YYYY")}</h2>
     
     
   </section>
