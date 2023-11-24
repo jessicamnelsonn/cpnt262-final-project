@@ -8,11 +8,11 @@
 
 <body class="bg-gray-100 font-sans">
 	<header class="text-center my-8">
-		<h1 class="text-3xl font-bold font-playfairDisplay">Welcome to Cucina Bella</h1>
-		<p class="text-gray-600">Your Culinary Haven for Exquisite Italian Cuisine</p>
+			<h1 class="text-3xl font-bold font-playfairDisplay">Welcome to Cucina Bella</h1>
+			<p class="text-gray-600">Your Culinary Haven for Exquisite Italian Cuisine</p>
 	</header>
 	<section class="max-w-2xl mx-auto font-lato">
-		<p class="text-justify mb-4">At Cucina Bella, we are passionate about flavor and dedicated to the art of hospitality. Located in the heart of [Location], our culinary haven is a celebration of exquisite Italian cuisine and a testament to the love we pour into every dish.</p>
+			<p class="text-justify mb-4">At Cucina Bella, we are passionate about flavor and dedicated to the art of hospitality. Located in the heart of [Location], our culinary haven is a celebration of exquisite Italian cuisine and a testament to the love we pour into every dish.</p>
 
 		<p class="text-justify mb-4">Our chefs, inspired by the rich traditions of Italian cooking, craft each dish with meticulous attention to detail, using only the finest, freshest ingredients. From the vibrant colors of our salads to the robust flavors of our pasta dishes, every bite is a symphony of taste.</p>
 

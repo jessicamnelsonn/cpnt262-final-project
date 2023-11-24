@@ -6,14 +6,14 @@
   <title>{pageTitle}</title>
 </svelte:head>
 
-<body class="bg-cover bg-center" style="background-image: url('images/view-image.jpg'); max-w-md">
+<body class="bg-cover bg-center" style="background-image: url('images/view-image.jpg'); max-w-md pb-8 ">
   <div>
     <h1 class="font-playfairDisplay flex justify-center text-2xl pt-6 font-bold text-white">Reservation</h1>
   </div>
 
-  <form action="/submit_reservation" method="post" class="max-w-md mx-auto mt-8 bg-gray-950 bg-opacity-75 p-8 rounded-md text-white">
-    <label for="name" class="block font-playfairDisplay">Name</label>
-    <input type="text" id="name" name="name" required class="w-full p-2 mb-4 bg-gray-300 bg-opacity-75 rounded-md">
+    <form action="/submit_reservation" method="post" class="max-w-md mx-auto mt-8 bg-gray-950 bg-opacity-75 p-8 rounded-md text-white">
+        <label for="name" class="block font-playfairDisplay ">Name</label>
+        <input type="text" id="name" name="name" required class="w-full p-2 mb-4  bg-gray-300 bg-opacity-75 rounded-md">
 
     <label for="email" class="block font-playfairDisplay">Email</label>
     <input type="email" id="email" name="email" required class="w-full p-2 mb-4 bg-gray-300 bg-opacity-75 rounded-md">
@@ -34,7 +34,9 @@
       <option value="private_party">Private Party</option>
     </select>
 
-    <input type="submit" value="Submit Reservation" class="font-lato w-full p-2 mb-4 text-white hover:bg-red-900 bg-red-800 cursor-pointer">
-  </form>
+			<input type="submit" value="Submit Reservation" class=" font-lato w-full p-2 mb-4 text-white hover:bg-red-900 bg-red-800 p-2 cursor-pointer">
+
+    </form>
+
 </body>
 
