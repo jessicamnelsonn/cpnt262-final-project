@@ -1,8 +1,8 @@
 <script>
-import dayjs from 'dayjs'
+  import dayjs from 'dayjs';
 
-let now = dayjs();
-console.log(now.format("MMM D, YYYY"));
+  let now = dayjs();
+  console.log(now.format("MMM D, YYYY"));
 </script>
 
 <div class="relative">
@@ -15,10 +15,7 @@ console.log(now.format("MMM D, YYYY"));
         Reservations
       </button>
     </a>
-
     <h2 class="text-xl">Today's date: {now.format("MMM D, YYYY")}</h2>
-    
-    
   </section>
 </div>
 

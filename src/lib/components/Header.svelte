@@ -2,7 +2,6 @@
   const navItems = [
 		{ name: '', href: '/' },
 		{ name: 'Menu', href: '/menu' },
-		{ name: 'Contact', href: '/contact' },
 		{ name: 'About', href: '/about' },
     { name: 'Reservations', href: '/reservations' }
 	];
