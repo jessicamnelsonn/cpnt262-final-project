@@ -6,11 +6,9 @@
 	<title>{pageTitle}</title>
 </svelte:head>
 
-<body class="bg-gray-100 font-sans">
-	<header class="text-center my-8">
+<section class="bg-gray-100 font-sans text-center p-4">
 			<h1 class="text-3xl font-bold font-playfairDisplay">Welcome to Cucina Bella</h1>
 			<p class="text-gray-600">Your Culinary Haven for Exquisite Italian Cuisine</p>
-	</header>
 	<section class="max-w-2xl mx-auto font-lato">
 			<p class="text-justify mb-4">At Cucina Bella, we are passionate about flavor and dedicated to the art of hospitality. Located in the heart of [Location], our culinary haven is a celebration of exquisite Italian cuisine and a testament to the love we pour into every dish.</p>
 
@@ -22,4 +20,4 @@
 
 		<p class="text-justify">Whether you're a connoisseur of Italian cuisine or a first-time visitor, we invite you to join us at Cucina Bella and embark on a culinary journey that ignites the senses and nourishes the soul. Buon appetito!</p>
 	</section>
-</body>
+</section>

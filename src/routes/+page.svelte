@@ -1,9 +1,15 @@
 <script>
+  let pageTitle = 'Home';
+
   import dayjs from 'dayjs';
 
   let now = dayjs();
   console.log(now.format("MMM D, YYYY"));
 </script>
+
+<svelte:head>
+  <title>{pageTitle}</title>
+</svelte:head>
 
 <div class="relative">
   <img class="brightness-75" src="images/hero-image.jpg" alt="">
