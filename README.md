@@ -14,3 +14,4 @@ Description: Was unsure how to add custom google fonts to tailwind
 
 ## Attributions
 - [Unsplash](https://unsplash.com/)
+- [Day.js](https://day.js.org/docs/en/installation/installation)
