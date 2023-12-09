@@ -1,27 +1,29 @@
 <script>
-  let pageTitle = 'Home';
-
   import dayjs from 'dayjs';
 
+  let pageTitle = 'Home';
   let now = dayjs();
-  console.log(now.format("MMM D, YYYY"));
 </script>
 
 <svelte:head>
   <title>{pageTitle}</title>
 </svelte:head>
 
-<div class="relative">
-  <img class="brightness-75" src="images/hero-image.jpg" alt="">
-  <section class="absolute top-1/3 left-1/2 transform -translate-y-1/2 -translate-x-1/2 text-center text-white">
-    <h1 class="font-playfairDisplay text-8xl text-white">Cucina Bella</h1>
-    <p>Indulge your senses at Cucina Bella, where culinary excellence meets a cozy ambiance. Savor the rich flavors of our carefully crafted Italian-inspired dishes, prepared with passion and the finest ingredients.</p>
+<div class="min-h-screen flex items-center justify-center bg-cover bg-center" style="background-image: url('images/hero-image.jpg');">
+  <div class="text-center text-white p-4 sm:p-8 relative top-[-6rem]">
+    <h1 class="font-playfairDisplay text-3xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl mb-4">Cucina Bella</h1>
+    <p class="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl mb-4 bg-black bg-opacity-50 p-2 rounded-md">
+      Indulge your senses at Cucina Bella, where culinary excellence meets a cozy ambiance. <br>
+      Savor the rich flavors of our carefully crafted Italian-inspired dishes, <br>
+      prepared with passion and the finest ingredients.
+    </p>
     <a href="/reservations">
-      <button class="font-lato m-4 px-4 py-2 bg-red-700 text-white hover:bg-red-800 active:bg-red-900">
+      <button class="font-lato px-4 py-3 bg-red-700 text-white hover:bg-red-800 active:bg-red-900">
         Reservations
       </button>
     </a>
-    <h2 class="text-xl">Today's date: {now.format("MMM D, YYYY")}</h2>
-  </section>
+    <div class="bg-black bg-opacity-50 p-2 m-2 rounded-md max-w-xs mx-auto">
+      <h2 class="text-xs sm:text-sm md:text-base lg:text-lg xl:text-xl mt-2 text-white">Today's date: {now.format("MMM D, YYYY")}</h2>
+    </div>
+  </div>
 </div>
-
